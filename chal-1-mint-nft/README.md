@@ -1,4 +1,4 @@
-# Near Challenge 1: Mint NFT]
+# Near Challenge 1: Mint NFT
 
 ![Near Challenge 1: Mint NFT](./near-challenge-1.png)
 
